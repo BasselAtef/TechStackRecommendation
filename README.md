@@ -1,7 +1,3 @@
-# DecodeLabs-Project3-TechStackRecommendation
-
----
-
 # Skill-Based Career Recommendation Engine
 
 A lightweight Python script that uses NLP and machine learning to recommend the top 3 career paths based on a user's skills. It utilizes TF-IDF vectorization and Cosine Similarity to find the closest matches from a dataset.
